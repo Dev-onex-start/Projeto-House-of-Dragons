@@ -1,4 +1,4 @@
-<h1>Projeto Game of Thrones - <a href="https://dev-onex-start.github.io/Projeto-House-of-Dragons/" target="_blank">House of Dragons</a></h1>
+<h1>Projeto Game of Thrones - <a href="https://dev-onex-start.github.io/Projeto-House-of-Dragons/" target="_blank" rel="noopener noreferrer">House of Dragons</a></h1>
 <h2>Projeto Responsivo</h2>
 
 <div padding: auto>
